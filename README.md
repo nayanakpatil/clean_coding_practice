@@ -1,9 +1,8 @@
 # clean_coding_practice
-
+i rate myself 8/10 in understanding the code
 
 understandable part:
 1. If statements:
-i rate myself 8/10 in understanding the code
 
  if (temperature > 35.0) {
             cout << "ALERT: High temperature detected (Environment)" << endl;
